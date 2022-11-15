@@ -1,0 +1,4 @@
+channels:
+    - conda-forge
+dependences:
+    - numpy
