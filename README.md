@@ -13,19 +13,7 @@ Junzhe Liu 2022
 
 ### Dataset - Argo 
 
-    (1) NOAA AOML (indivisual .nc)
-    https://www.ncei.noaa.gov/data/oceans/argo/gadr/data/aoml/
-    or
-    https://nrlgodae1.nrlmry.navy.mil/cgi-bin/argo_select.pl?startyear=2022&startmonth=11&startday=08&endyear=2022&endmonth=11&endday=16&Nlat=90&Wlon=-180&Elon=180&Slat=-90&dac=ALL&floatid=ALL&gentype=plt&.submit=++Go++&.cgifields=endday&.cgifields=dac&.cgifields=startday&.cgifields=startmonth&.cgifields=endmonth&.cgifields=gentype&.cgifields=startyear&.cgifields=endyear&.cgifields=delayed
-    
-    (2) Euro-Argo ERIC (indivisual .CSV)
-    https://fleetmonitoring.euro-argo.eu/dashboard?Status=Active&Basin=ATLANTIC%20OCEAN
-    
-    (3) GDAC (individual .nc)
-    https://data-argo.ifremer.fr/geo/pacific_ocean/
- 
-    (4) Data Products from Argo 
-    https://argo.ucsd.edu/data/argo-data-products/
+    Python Package argopy developed by euroargo program
 
 ### Analysis Plan
 
